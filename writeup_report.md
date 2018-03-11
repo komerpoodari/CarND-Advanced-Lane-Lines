@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 [image4]: ./examples/undist_combo_xfm_test3.png "Warp Example"
 [image5]: ./examples/test6-linefit.png "Fit Visual"
 [image6]: ./examples/painted_lane_test5.png "Output"
-[video1]: https://youtu.be/5ZMIssN6EX4 "Video"
+
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -117,7 +117,7 @@ Then in **"./Adv-lane-find.ipynb" (section 7.  Video Processing)** section I imp
 
 The output video file is **"./project_output_video.mp4"**.
 Here's a link to my output video on YouTube.
-![alt text][video1]
+**https://youtu.be/5ZMIssN6EX4**
 ---
 
 ### Discussion
