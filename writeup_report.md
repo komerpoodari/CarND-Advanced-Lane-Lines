@@ -115,8 +115,7 @@ I implemented this step in the function `paint_lane()`, in the **"./Adv-lane-fin
 
 Then in **"./Adv-lane-find.ipynb" (section 7.  Video Processing)** section I implemented higher level function `process_image()` that gets invoked video `fl_image()` function. In this section implemented the class 'Line', based on the course material guidance and 'process_image()' function. I averging the Line fit polynomial coefficients over 5 most recent frames. I invoked incremental polynomial fitting, if most recent fit was fine within some sanity checks such as X-intercept distances. and co-efficient changes. Overall the processing pipeline worked reasonably well.
 
-The output video file is **"./project_output_video.mp4"**.
-Here's a link to my output video on YouTube.
+The output video file is *"./project_output_video.mp4"*. Here's a link to my output video on YouTube.
 **https://youtu.be/5ZMIssN6EX4**
 ---
 
